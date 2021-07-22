@@ -1,0 +1,13 @@
+.bodyBackground{
+    background-image: url("imgBg.jpg");
+    background-position: center;
+    background-size: cover;
+    background-color:gray;
+    color:black;
+}
+#canvas1{
+    border-width:10px;
+    border:ridge;
+    border-color:white;
+    background-color:black;
+}
